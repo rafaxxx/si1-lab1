@@ -1,4 +1,4 @@
 si1-lab1
 ========
 
-Repositorio da disciplina SI1
+Repositorio do lab1 da disciplina SI1
