@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+
+a,a:hover {
+	color: black
+}
+
+body {
+	color: darkred;
+	font-family: helvetica, sans-serif;
+	text-align: justify;
+}
+
+h1 {
+	color: indianred;
+	text-align: center;
+}
+
+h2 {
+	color: indianred;
+	font-style: italic;
+	text-align: center;
+}
+
+button{left: 45%;
+	width: auto;
+	position: absolute;}
